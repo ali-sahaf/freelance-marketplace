@@ -54,9 +54,8 @@
 
 # 
 
-# \## Project Management
-
-# Jira Board: To be added
+## Project Management
+Jira Board: https://alisahaf749.atlassian.net/jira/software/projects/FM/boards/2
 
 # 
 
